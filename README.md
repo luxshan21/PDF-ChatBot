@@ -41,7 +41,7 @@ export GOOGLE_API_KEY=your_api_key_here
 streamlit run pdf_chatbot_app.py
 ```
 
-## 🖼️ Sample Outputs
+## 🖼️ Sample Output
 
 ![image](https://github.com/user-attachments/assets/66f81747-1702-41a9-b5db-a448a55e3c03)
 
