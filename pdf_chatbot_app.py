@@ -16,7 +16,7 @@ from langchain.chains.retrieval_qa.base import RetrievalQA
 warnings.filterwarnings('ignore')
 
 # Set Google API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaFm3JJIsbyMl6JLA2Y2mUUuPMwxQc4cM"
+os.environ["GOOGLE_API_KEY"] = "Google_API_Key"
 
 def load_pdf(file_path: str) -> List[Document]:
     """Load a PDF file and return its documents."""
