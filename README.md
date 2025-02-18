@@ -19,7 +19,7 @@ A **Streamlit-based chatbot** that allows users to upload a **PDF file** and ask
 ## 📌 Installation & Setup  
 
 ```bash
-### 1️⃣ Clone the Repository  
+1️⃣ Clone the Repository  
 
 git clone https://github.com/luxshan21/PDF-ChatBot.git
 cd PDF-ChatBot
